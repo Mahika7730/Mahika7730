@@ -12,14 +12,13 @@
 
 <!-- ACADEMIC & LOCATION BADGES -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Degree-B.Tech%20in%20Computer%20Science-4C1D95?style=flat-square&logo=academia&logoColor=white" alt="Academic Badge" />
+  <img src="https://img.shields.io/badge/Degree-B.Tech%20in%20Computer%20Science%20%40%20UPES-4C1D95?style=flat-square&logo=academia&logoColor=white" alt="Academic Badge" />
   <img src="https://img.shields.io/badge/Location-Delhi%2C%20India-1E1B4B?style=flat-square&logo=googlemaps&logoColor=white" alt="Location Badge" />
 </p>
 
 <!-- SOCIAL & METRIC BADGES -->
 <p align="center">
-  <a href="https://portfolio.dev"><img src="https://img.shields.io/badge/Portfolio-Premium-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-1E40AF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/mahika-sharma7"><img src="https://img.shields.io/badge/LinkedIn-Connect-1E40AF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:mahikants03@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/Mahika7730"><img src="https://img.shields.io/badge/GitHub-Follow-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
@@ -34,89 +33,90 @@
 
 ## 01. About Me
 
-An enterprise-grade Software Engineer specializing in the intersection of high-performance Full Stack Development and robust AI/ML systems. Combining an analytical foundations approach with a product engineering mindset to architect scalable, production-ready systems that deliver tangible user and business impact. 
+A forward-thinking Computer Science & Engineering student specializing in **Cyber Security**, with a strong foundation in core software development frameworks and data structures. Combining robust algorithmic problem-solving with an offensive and defensive security mindset to build secure, resilient, and intelligent software systems.
 
-*   **Software Engineering:** Architecting distributed, highly available applications with clean, decoupled logic and microservices patterns.
-*   **AI/ML Expertise:** Building end-to-end intelligence layers, optimizing data ingestion pipelines, and deploying robust predictive models.
-*   **Product Engineering:** Translating ambiguous business problems into functional architectures with meticulous focus on latency, scalability, and UX.
+*   **Cyber Security Focus:** Deeply interested in threat analysis, security auditing, vulnerability assessment, and architecting secure network perimeters.
+*   **AI & Software Engineering:** Exploring the intersection of artificial intelligence and software engineering to develop automated security solutions and highly performant applications.
+*   **Algorithmic Foundation:** Dedicated to optimizing code efficiency and system reliability through strong Data Structures & Algorithms (DSA) principles.
 
 ### 🎯 Open To
-*   Collaborative Open Source Initiatives
-*   Research & Implementation of Advanced AI Models
-*   High-Scale Distributed Systems Design
+*   **Cyber Security Analyst Internships / Roles:** Incident response, threat hunting, log analysis, and monitoring security operations center (SOC) environments.
+*   **Software Engineering Positions:** Designing secure backend architectures, building robust pipelines, and implementing clean object-oriented code.
+*   **Collaborative Technical Initiatives:** Penetration testing challenges, CTF competitions, and secure open-source contributions.
 
 ---
-
 ## 02. Tech Stack
 
 <p align="left">
   <!-- Languages -->
   <strong>Languages:</strong><br />
-  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp" alt="Languages" /><br /><br />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java" alt="Languages" /><br /><br />
   
-  <!-- Frontend -->
-  <strong>Frontend Frameworks & UI:</strong><br />
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" alt="Frontend" /><br /><br />
+  <!-- Security Tools -->
+  <strong>Security Tools & Environments:</strong><br />
+  <img src="https://skillicons.dev/icons?i=kali,linux" alt="Security Envs" />
+  <br />
+  <code style="color:#A78BFA; background:#1E1B4B; padding:4px 8px; border-radius:4px;">🛠️ Nmap</code> &nbsp;&bull;&nbsp; 
+  <code style="color:#A78BFA; background:#1E1B4B; padding:4px 8px; border-radius:4px;">🦈 Wireshark</code> &nbsp;&bull;&nbsp; 
+  <code style="color:#A78BFA; background:#1E1B4B; padding:4px 8px; border-radius:4px;">🛡️ Metasploit Framework</code>
+  <br /><br />
   
-  <!-- Backend & Databases -->
-  <strong>Backend, Databases & Caching:</strong><br />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb,redis" alt="Backend & DB" /><br /><br />
+  <!-- Web Technologies & Databases -->
+  <strong>Web & Databases:</strong><br />
+  <img src="https://skillicons.dev/icons?i=html,mysql,mongodb" alt="Web & DB" />
+  <br /><br />
   
-  <!-- Cloud, DevOps & Tooling -->
-  <strong>Cloud, DevOps & Tooling:</strong><br />
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,githubactions" alt="DevOps" />
+  <!-- Developer Tools -->
+  <strong>Developer Tools & Version Control:</strong><br />
+  <img src="https://skillicons.dev/icons?i=git,vscode" alt="Tools" />
 </p>
 
 ---
 
-## 03. AI/ML Expertise
+## 03. Domain Expertise
 
-| Domain | Proficiency | Details & Frameworks |
+| Domain | Core Competencies | Tools & Frameworks |
 | :--- | :--- | :--- |
-| **Statistical Analysis** | Advanced | Correlation, Covariance, Regression Modeling, Error Evaluation (MSE, RMSE) |
-| **Deep Learning** | Intermediate | Neural Networks architectures, model fine-tuning with PyTorch & TensorFlow |
-| **Data Pipelines** | Advanced | Scalable data wrangling, preprocessing, and exploratory data analysis using Pandas & NumPy |
-| **MLOps** | Intermediate | Containerized model deployment, automated tracking, and model serving infrastructure |
+| **Cyber Security** | Vulnerability Assessment, Penetration Testing, Ethical Hacking Basics | Kali Linux, Nmap, Wireshark, Metasploit Framework |
+| **Software Engineering** | Console-based Application Development, Relational Database Integration | Python, C, C++, Java, Object-Oriented Logic |
+| **Database Management** | Relational Database Systems, Fundamental NoSQL Data Structures | MySQL, DBMS Concepts, MongoDB (Basics) |
+| **Version Control & Environment** | Source Code Management, Structured Development Workflows | Git, GitHub, Visual Studio Code |
 
 ---
 
 ## 04. Featured Projects
 
 <details>
-<summary>🚀 Intelligent Data Analytics & Prediction Platform</summary>
+<summary>🎣 Phishing URL Detection System</summary>
 <br />
 
 ### Description
-An enterprise-tier analytics engine designed to handle heavy ingestion pipelines, compute complex mathematical and statistical relationships across large datasets, and output real-time predictive analytics dashboards.
+An intelligence-based security tool designed to analyze web URLs and identify suspicious or malicious links based on predefined security structural features to prevent social engineering attacks.
 
 ### Technical Engineering Breakdown
 | Metric | Specification & Architecture |
 | :--- | :--- |
-| **Stack** | FastAPI, React, PostgreSQL, Redis, NumPy, Docker |
-| **Scale** | Processed 500,000+ data transactions daily with real-time aggregation |
-| **Performance** | Optimized query latencies by 45% using Redis caching layers and relational indexing |
-| **Security** | Role-Based Access Control (RBAC) enforced via JWT authentication tokens |
-| **Impact** | Automated data-driven analytical reporting, saving user teams approximately 12 weekly manual hours |
+| **Stack** | Python, Security Feature Extraction |
+| **Core Focus** | Predefined Security Feature Rule-Matching & URL Analysis |
+| **Impact** | Mitigates social engineering vectors by increasing real-time link security awareness |
 
 ### Repository
 [View Source Code Base](https://github.com/Mahika7730)
 </details>
 
 <details>
-<summary>⚡ Distributed Microservices Backend Architecture</summary>
+<summary>🏦 Secure Bank Management System</summary>
 <br />
 
 ### Description
-A highly performant asynchronous backend layout built to ensure decouple-ready operations, horizontal auto-scaling, and structured event-driven communication channels between modules.
+A console-based banking application supporting critical user workflows including secure account creation, deposits, withdrawals, and relational database balance inquiries.
 
 ### Technical Engineering Breakdown
 | Metric | Specification & Architecture |
 | :--- | :--- |
-| **Stack** | Node.js, Express, MongoDB, Docker, Kubernetes, GitHub Actions |
-| **Scale** | Configured to support up to 5,000 concurrent websocket connections smoothly |
-| **Performance** | Achieved 99.9% uptime metrics during sustained high-load simulation testing |
-| **Security** | Microservices network perimeter secured using isolated VPC configurations and TLS encryption |
-| **Impact** | Cut core system architecture operational overhead by 30% through automated Kubernetes scheduling |
+| **Stack** | Python, MySQL |
+| **Database Layer** | Relational schema mapping for transactional integrity and storage |
+| **Operations** | Safe computational logic handling withdrawals and deposits data inputs |
 
 ### Repository
 [View Source Code Base](https://github.com/Mahika7730)
@@ -126,51 +126,57 @@ A highly performant asynchronous backend layout built to ensure decouple-ready o
 
 ## 05. Experience
 
-#### **Software Engineer Associate** | *Enterprise Tech Corp*
-*May 2025 — Present*
-* Engaged within a fast-moving engineering team to refactor legacy monolith components into isolated, reusable microservices.
-* Developed algorithmic pipelines optimizing relational data queries and underlying database indexing strategy.
-* Collaborated closely with product managers to deliver optimized customer dashboards using modern React component lifecycle patterns.
-* `Node.js` `PostgreSQL` `React` `Docker` `AWS`
+#### **Cybersecurity Intern** | *Xotiv Technologies Pvt. Ltd.*
+*June 2025 — July 2025*
+* Conducted comprehensive vulnerability assessments and penetration testing (VAPT) workflows across 15+ internal company systems.
+* Identified and documented over 20+ security infrastructure gaps, directly assisting engineering teams in tactical mitigation planning.
+* Sharpened industry practices in structural ethical hacking configurations within live Linux-based operational environments.
+* `Kali Linux` `Nmap` `Wireshark` `Metasploit` `VAPT`
+
+#### **Social Trainee Intern / Head Intern** | *Karuna: The Compassion*
+*June 2024 — July 2024*
+* Led and coordinated an active internal team of interns to organize 3+ community-wide outreach events and recognition ceremonies.
+* Managed operations and planning log logistics smoothly for over 100+ active event participants.
+* `Teamwork` `Time Management` `Critical Thinking` `Project Planning`
+
 
 ---
 
 ## 06. Achievements
 
-<p align="center">
-</p>
-
 | Recognition | Details |
 | :--- | :--- |
-| **Hackathon Finalist** | Placed in Top 5 out of 150 teams for developing an automated ML pipeline solution. |
-| **Academic Excellence Award** | Honored for maintaining top tier ranking across analytical and computer engineering courses. |
+| **UPES Hackathon** | Secured a position in the competitive Top 50 teams. |
+| **Python Programming** | Successfully completed comprehensive online training. |
+| **Ethical Hacking Basics** | Successfully completed fundamental cybersecurity online training. |
 
 ---
 
-## 07. Certifications
+## 07. Certifications & Academic Workshops
 
-### ☁️ AWS (Amazon Web Services)
-<img src="https://img.shields.io/badge/AWS-Certified_Solutions_Architect-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Solutions Architect" /> <img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Cloud Practitioner" />
+### 🤖 IBM
+<img src="https://img.shields.io/badge/IBM-Artificial_Intelligence_Fundamentals-054ADA?style=flat-square&logo=ibm&logoColor=white" alt="IBM AI Fundamentals" />
 
-### 🗄️ Oracle
-<img src="https://img.shields.io/badge/Oracle-Certified_Professional_Java_SE-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle Java" />
-
-### 🎓 NPTEL
-<img src="https://img.shields.io/badge/NPTEL-Data_Structures_And_Algorithms-0052CC?style=flat-square&logo=education&logoColor=white" alt="NPTEL DSA" /> <img src="https://img.shields.io/badge/NPTEL-Introduction_To_Machine_Learning-0052CC?style=flat-square&logo=education&logoColor=white" alt="NPTEL ML" />
-
-### 🌐 Cisco
-<img src="https://img.shields.io/badge/Cisco-CCNA_Routing_and_Switching-1C79C0?style=flat-square&logo=cisco&logoColor=white" alt="CCNA" />
+### 🎓 Academic Workshops
+*   **Summer School on Dynamical Systems and Complexity** | *School of Computer Science, UPES*
+    *   Participated in an intensive multi-week academic workshop exploring nonlinear systems, predictive modeling, and computational approaches to complexity.
 
 ---
 
-## 08. Coding Profiles
+
+## 08. GitHub Analytics
 
 <p align="center">
-  <a href="https://leetcode.com"><img src="https://img.shields.io/badge/LeetCode-Solve_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="https://geeksforgeeks.org"><img src="https://img.shields.io/badge/GeeksforGeeks-Learn_Concepts-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
-  <a href="https://hackerrank.com"><img src="https://img.shields.io/badge/HackerRank-Verify_Skills-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-  <a href="https://codechef.com"><img src="https://img.shields.io/badge/CodeChef-Compete-5B4636?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahika7730&show_icons=true&theme=dark&bg_color=0D0B21&title_color=A78BFA&icon_color=8B5CF6&text_color=E2E8F0" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahika7730&theme=dark&background=0D0B21&title=A78BFA&fire=8B5CF6&ring=A78BFA&text=E2E8F0" alt="GitHub Streak" width="48%" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahika7730&layout=compact&theme=dark&bg_color=0D0B21&title_color=A78BFA&icon_color=8B5CF6&text_color=E2E8F0" alt="Top Languages" width="60%" />
+</p>
+
+---
+
 
 ---
 
@@ -187,39 +193,15 @@ A highly performant asynchronous backend layout built to ensure decouple-ready o
 
 ---
 
-## 10. GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mahika7730&theme=onedark&column=7&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
-</p>
 
----
-
-## 11. Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahika7730&theme=react-dark&bg_color=0D0B21&color=8B5CF6&line=A78BFA&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
-</p>
-
----
-
-## 12. Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mahika7730/Mahika7730/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
-
----
-
-## 13. Current Focus
+## 10. Current Focus
 
 ```yaml
 learning:
-  - Advanced Distributed Systems Engineering
-  - Statistical Modeling & Large Language Model Fine-Tuning
-building:
-  - Scalable MLOps Production Orchestration Layer
+  - Cyber Security Operations & Advanced Penetration Testing
+  - Artificial Intelligence Foundations & Practical Implementations
 exploring:
-  - Graph Neural Network Architectures
+  - Security vulnerability mitigation frameworks and automated scripting
 open_to:
-  - Technical Research & Production Software Engineering Collaborations
+  - Cyber Security Analyst Roles & Secure Software Engineering Collaborations
