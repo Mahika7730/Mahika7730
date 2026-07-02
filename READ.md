@@ -7,7 +7,7 @@
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=9061F9&center=true&vCenter=true&width=500&lines=Software+Engineer;AI+%2F+ML+Practitioner;Full+Stack+Developer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=9061F9&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Cyber+Security+Enthusiast;Aspiring+Security+Analyst" alt="Typing Animation" />
 </p>
 
 <!-- ACADEMIC & LOCATION BADGES -->
