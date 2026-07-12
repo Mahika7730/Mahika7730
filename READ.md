@@ -35,16 +35,17 @@
 
 A forward-thinking Computer Science & Engineering student specializing in **Cyber Security**, with a strong foundation in core software development frameworks and data structures. Combining robust algorithmic problem-solving with an offensive and defensive security mindset to build secure, resilient, and intelligent software systems.
 
-*   **Cyber Security Focus:** Deeply interested in threat analysis, security auditing, vulnerability assessment, and architecting secure network perimeters.
-*   **AI & Software Engineering:** Exploring the intersection of artificial intelligence and software engineering to develop automated security solutions and highly performant applications.
-*   **Algorithmic Foundation:** Dedicated to optimizing code efficiency and system reliability through strong Data Structures & Algorithms (DSA) principles.
+* **Cyber Security Focus:** Deeply interested in threat analysis, security auditing, vulnerability assessment, and architecting secure network perimeters.
+* **AI & Software Engineering:** Exploring the intersection of artificial intelligence and software engineering to develop automated security solutions and highly performant applications.
+* **Algorithmic Foundation:** Dedicated to optimizing code efficiency and system reliability through strong Data Structures & Algorithms (DSA) principles.
 
 ### 🎯 Open To
-*   **Cyber Security Analyst Internships / Roles:** Incident response, threat hunting, log analysis, and monitoring security operations center (SOC) environments.
-*   **Software Engineering Positions:** Designing secure backend architectures, building robust pipelines, and implementing clean object-oriented code.
-*   **Collaborative Technical Initiatives:** Penetration testing challenges, CTF competitions, and secure open-source contributions.
+* **Cyber Security Analyst Internships / Roles:** Incident response, threat hunting, log analysis, and monitoring security operations center (SOC) environments.
+* **Software Engineering Positions:** Designing secure backend architectures, building robust pipelines, and implementing clean object-oriented code.
+* **Collaborative Technical Initiatives:** Penetration testing challenges, CTF competitions, and secure open-source contributions.
 
 ---
+
 ## 02. Tech Stack
 
 <p align="left">
@@ -136,9 +137,8 @@ A console-based banking application supporting critical user workflows including
 #### **Social Trainee Intern / Head Intern** | *Karuna: The Compassion*
 *June 2024 — July 2024*
 * Led and coordinated an active internal team of interns to organize 3+ community-wide outreach events and recognition ceremonies.
-* Managed operations and planning log logistics smoothly for over 100+ active event participants.
+* Managed operations and planning logistics smoothly for over 100+ active event participants.
 * `Teamwork` `Time Management` `Critical Thinking` `Project Planning`
-
 
 ---
 
@@ -158,11 +158,10 @@ A console-based banking application supporting critical user workflows including
 <img src="https://img.shields.io/badge/IBM-Artificial_Intelligence_Fundamentals-054ADA?style=flat-square&logo=ibm&logoColor=white" alt="IBM AI Fundamentals" />
 
 ### 🎓 Academic Workshops
-*   **Summer School on Dynamical Systems and Complexity** | *School of Computer Science, UPES*
-    *   Participated in an intensive multi-week academic workshop exploring nonlinear systems, predictive modeling, and computational approaches to complexity.
+* **Summer School on Dynamical Systems and Complexity** | *School of Computer Science, UPES*
+  * Participated in an intensive multi-week academic workshop exploring nonlinear systems, predictive modeling, and computational approaches to complexity.
 
 ---
-
 
 ## 08. GitHub Analytics
 
@@ -177,25 +176,7 @@ A console-based banking application supporting critical user workflows including
 
 ---
 
-
----
-
-## 09. GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahika7730&show_icons=true&theme=dark&bg_color=0D0B21&title_color=A78BFA&icon_color=8B5CF6&text_color=E2E8F0" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahika7730&theme=dark&background=0D0B21&title=A78BFA&fire=8B5CF6&ring=A78BFA&text=E2E8F0" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahika7730&layout=compact&theme=dark&bg_color=0D0B21&title_color=A78BFA&icon_color=8B5CF6&text_color=E2E8F0" alt="Top Languages" width="60%" />
-</p>
-
----
-
-
-
-## 10. Current Focus
+## 09. Current Focus
 
 ```yaml
 learning:
